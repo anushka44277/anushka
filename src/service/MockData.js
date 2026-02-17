@@ -8,8 +8,7 @@ let profileData = {
         phone: '5551122',
         location: 'Teku, Nepal',
         bio: 'idgaf about anything. I am just here to have fun and enjoy life. I am not interested in anything else. ',
-        // profilePicture: 'https://images.unsplash.com/photo-1695927621677-ec96e048dce2?h=400&w=400&fit=crop'
-        profilePicture:'https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?w=500&auto=format&fit=crop'
+        profilePicture:'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png'
     },
     education: [
         {
